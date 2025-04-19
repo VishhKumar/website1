@@ -9,6 +9,12 @@ import './styles/App.scss';
 import './styles/header.scss';
 import Home from './components/Home';
 import "./styles/home.scss";
+import "./styles/footer.scss";
+import "./styles/contact.scss";
+import "./styles/mediaquery.scss";
+import Footer from './components/Footer';
+import Contact from './components/Contact';
+import Services from './components/Services';
 
 function App() {
 
@@ -17,7 +23,10 @@ function App() {
       <Header/>
       <Routes>
         <Route path='/' element={<Home/>}/>
+        <Route path='/contact' element={<Contact/>}/>
+        <Route path='/services' element={<Services/>}/>
       </Routes> 
+      <Footer/>
     </Router>
   )
 }

@@ -1,0 +1,46 @@
+@use "./colors.scss" as d;
+
+
+
+footer {
+  background-color: d.$first;
+  height: 200px;
+  width: 100%;
+  color: d.$dark;
+  display: grid;
+  grid-template-columns: 4fr 1fr;
+  padding: 2rem;
+
+  > div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    > h1 {
+      font: 700 2rem d.$text1;
+      text-transform: uppercase;
+      color: d.$third;
+    }
+    > p {
+      font: 500 1.2rem d.$text1;
+    }
+
+    > h5 {
+      font: 300 2rem d.$text1;
+      margin: 1rem 0;
+      text-align: center;
+    }
+
+    > div {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      a {
+        color: d.$dark;
+        font: 900 1rem d.$text2;
+        &:hover {
+          color: d.$third;
+        }
+      }
+    }
+  }
+}
