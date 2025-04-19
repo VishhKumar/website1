@@ -32,20 +32,7 @@ function Home() {
         <div>
           <h1>Who we are?</h1>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis
-            officiis hic illo quos sit commodi, aut magnam odio eligendi? Totam
-            quis officiis fugit sunt dolores nostrum tenetur iusto est odio
-            mollitia. Dolor placeat repellendus officia aspernatur dolorum
-            harum. Dolorem cumque quaerat eius qui deserunt ullam laudantium
-            quia tempore. Dignissimos esse sequi numquam est ipsam nemo,
-            voluptas vel recusandae iste aspernatur qui quasi, commodi, atque
-            ipsa dolores tempore asperiores? Dolores soluta placeat molestiae
-            aperiam, ullam officia fugiat corrupti odio, suscipit ipsum cum vel
-            nemo. Ratione quo tempore fugit quaerat! Facilis beatae impedit
-            similique maxime praesentium sunt unde necessitatibus voluptates
-            ipsa, et, numquam reiciendis eveniet? Aliquid nemo nesciunt placeat,
-            qui fuga quae repellat sunt, non natus, iure ab officia rem ipsa cum
-            sed cumque corporis voluptate quibusdam nostrum quod saepe
+          We are a passionate team of web developers committed to building modern, responsive, and user-friendly websites that bring ideas to life. With a blend of creativity and technical expertise, we craft digital experiences that not only look great but also perform seamlessly across all devices. Whether it’s a personal blog, business site, or complex web application, we deliver solutions tailored to meet your unique goals. At our core, we believe in clean code, intuitive design, and long-term client success. Our mission is to empower individuals and businesses with the online presence they deserve. Join us on this journey to transform your digital vision into reality.
           </p>
         </div>
       </div>
